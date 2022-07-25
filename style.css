@@ -1,4 +1,6 @@
 
-table, th, td {
-  border:1px solid black;
+backround {
+  background-color: black;
+  padding: 20px;
+  text-align: center;
 }
